@@ -85,5 +85,5 @@ The dataset used in this project is **Tesla stock data (tesla.csv)**, which incl
 
 ## 📌 Conclusion
 
-This project demonstrates how Machine Learning can be used to analyze stock data and predict future prices. It helps understand trends and provides a basic forecasting app
+This project demonstrates how Machine Learning can be used to analyze stock data and predict future prices. It helps understand trends and provides a basic forecasting approach
 
